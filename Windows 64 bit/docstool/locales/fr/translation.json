@@ -239,6 +239,8 @@
   "filter_other": "Autre",
   "filter_selection": "Filtres de sÃ©lection",
   "filter_user": "Filtre utilisateur",
+  "filter_year_title": "FILTRE ANNÉE",
+  "filter_year_current_prev": "Année en cours + précédente",
   "filter_user_type": "Type d'utilisateur",
   "filtered_list": "Liste filtrée",
   "filters": "Filtres",
@@ -750,5 +752,13 @@
   "backup_success": "Sauvegarde terminée avec succès",
   "section_upgrade": "Mise à jour",
   "section_backup": "Sauvegarde",
-  "platform": "Plateforme"
+  "platform": "Plateforme",
+  "uf_disable_user_title": "Désactiver l'utilisateur",
+  "uf_disable_user_msg": "L'utilisateur <b>%USER%</b> sera désactivé et ne pourra plus se connecter.",
+  "uf_delete_tickets_option": "Supprimer également tous les tickets de cet utilisateur",
+  "uf_disable_btn": "Désactiver",
+  "uf_disabling": "Désactivation en cours...",
+  "uf_user_disabled": "Utilisateur désactivé",
+  "uf_user_deleted": "Utilisateur supprimé",
+  "sort_disabled_on_search": "Tri désactivé pendant la recherche globale (fonctionne avec les filtres)"
 }

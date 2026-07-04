@@ -241,6 +241,8 @@
   "filter_other": "Other",
   "filter_selection": "Select Filters",
   "filter_user": "User Filter",
+  "filter_year_title": "YEAR FILTER",
+  "filter_year_current_prev": "Current + previous year",
   "filter_user_type": "User Type",
   "filtered_list": "Filtered list",
   "filters": "Filters",
@@ -752,5 +754,13 @@
   "backup_success": "Backup completed successfully",
   "section_upgrade": "Upgrade",
   "section_backup": "Backup",
-  "platform": "Platform"
+  "platform": "Platform",
+  "uf_disable_user_title": "Disable user",
+  "uf_disable_user_msg": "User <b>%USER%</b> will be disabled and cannot log in anymore.",
+  "uf_delete_tickets_option": "Also delete all tickets of this user",
+  "uf_disable_btn": "Disable",
+  "uf_disabling": "Disabling user...",
+  "uf_user_disabled": "User disabled",
+  "uf_user_deleted": "User deleted",
+  "sort_disabled_on_search": "Sorting disabled during global search (works with filters)"
 }

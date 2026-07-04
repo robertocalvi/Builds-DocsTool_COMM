@@ -239,6 +239,8 @@
   "filter_other": "Sonstiges",
   "filter_selection": "Filter auswÃ¤hlen",
   "filter_user": "Benutzerfilter",
+  "filter_year_title": "JAHRESFILTER",
+  "filter_year_current_prev": "Aktuelles + vorheriges Jahr",
   "filter_user_type": "Benutzertyp",
   "filtered_list": "Gefilterte Liste",
   "filters": "Filter",
@@ -750,5 +752,13 @@
   "backup_success": "Sicherung erfolgreich abgeschlossen",
   "section_upgrade": "Aktualisierung",
   "section_backup": "Sicherung",
-  "platform": "Plattform"
+  "platform": "Plattform",
+  "uf_disable_user_title": "Benutzer deaktivieren",
+  "uf_disable_user_msg": "Benutzer <b>%USER%</b> wird deaktiviert und kann sich nicht mehr anmelden.",
+  "uf_delete_tickets_option": "Auch alle Tickets dieses Benutzers löschen",
+  "uf_disable_btn": "Deaktivieren",
+  "uf_disabling": "Benutzer wird deaktiviert...",
+  "uf_user_disabled": "Benutzer deaktiviert",
+  "uf_user_deleted": "Benutzer gelöscht",
+  "sort_disabled_on_search": "Sortierung bei globaler Suche deaktiviert (funktioniert mit Filtern)"
 }

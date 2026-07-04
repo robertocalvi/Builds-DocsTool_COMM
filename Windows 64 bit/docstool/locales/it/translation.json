@@ -241,6 +241,8 @@
   "filter_other": "Altro",
   "filter_selection": "Selezione",
   "filter_user": "Filtro utente",
+  "filter_year_title": "FILTRO ANNI",
+  "filter_year_current_prev": "Anno corrente + precedente",
   "filter_user_type": "Tipo Utente",
   "filtered_list": "Lista filtrata",
   "filters": "Filtri",
@@ -752,5 +754,13 @@
   "backup_success": "Backup completato con successo",
   "section_upgrade": "Aggiornamento",
   "section_backup": "Backup",
-  "platform": "Piattaforma"
+  "platform": "Piattaforma",
+  "uf_disable_user_title": "Disabilita utente",
+  "uf_disable_user_msg": "L'utente <b>%USER%</b> verrà disabilitato e non potrà più accedere.",
+  "uf_delete_tickets_option": "Cancella anche tutti i ticket di questo utente",
+  "uf_disable_btn": "Disabilita",
+  "uf_disabling": "Disabilitazione in corso...",
+  "uf_user_disabled": "Utente disabilitato",
+  "uf_user_deleted": "Utente eliminato",
+  "sort_disabled_on_search": "Ordinamento disabilitato durante la ricerca globale (funziona con i filtri)"
 }
